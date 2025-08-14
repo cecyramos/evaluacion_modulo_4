@@ -1,0 +1,5 @@
+Don Quijote de la Mancha|Miguel de Cervantes|1605|disponible
+Hamlet|William Shakespeare|1599|disponible
+La Divina Comedia|Dante Alighieri|1304|disponible
+Cien años de soledad|Gabriel García Márquez|1967|disponible
+1984|George Orwell|1949|disponible
